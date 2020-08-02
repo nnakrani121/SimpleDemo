@@ -1,0 +1,17 @@
+Index: app/src/main/res/layout/activity_main.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/activity_main.xml	(revision 21f6e29586c91426b10634d3e7c1f7bd195b2b2a)
++++ app/src/main/res/layout/activity_main.xml	(date 1596341015284)
+@@ -9,7 +9,8 @@
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+-        android:text="Hello World!"
++        android:text="Welcome to Rk"
++        android:textSize="24sp"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintLeft_toLeftOf="parent"
+         app:layout_constraintRight_toRightOf="parent"
